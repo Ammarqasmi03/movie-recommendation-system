@@ -423,7 +423,7 @@ if trigger_recommendation:
 st.markdown("""
     <div class="netflix-footer">
         <div class="footer-links">
-            <a class="footer-link" href="https://github.com/AmmarGour" target="_blank">
+            <a class="footer-link" href="https://github.com/Ammarqasmi03/movie-recommendation-system/" target="_blank">
                 <i class="fab fa-github"></i> GitHub Portfolio
             </a>
             <a class="footer-link" href="https://linkedin.com/in/ammar-qasmi/-082266289" target="_blank">
