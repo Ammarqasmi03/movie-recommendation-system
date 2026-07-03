@@ -10,7 +10,7 @@ The project features a beautiful **Streamlit** interface inspired by modern movi
 
 ## 🌟 Live Demo
 
-https://your-app-name.streamlit.app
+https://movie-recommendation-system-byammar.streamlit.app/
 
 ---
 
