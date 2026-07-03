@@ -8,11 +8,7 @@ The project features a beautiful **Streamlit** interface inspired by modern movi
 
 ---
 
-## 🌟 Demo
-
-*(Add your deployed Streamlit URL here after deployment)*
-
-Example:
+## 🌟 Live Demo
 
 https://your-app-name.streamlit.app
 
@@ -23,7 +19,7 @@ https://your-app-name.streamlit.app
 ## Home Page
 
 
-![Home](Movie-Recommender-System\movie-rs-screenshot.png)
+![Home](movie-rs-screenshot.png)
 
 ---
 
@@ -31,7 +27,7 @@ https://your-app-name.streamlit.app
 
 
 
-![Recommendation](Movie-Recommender-System\movie-rs-screenshot2.png)
+![Recommendation](movie-rs-screenshot2.png)
 
 ---
 
